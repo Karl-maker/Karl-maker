@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello, I'm Karl-Johan Bailey, a passionate about creating innovative solutions for both web and mobile applications. I thrive in dynamic environments, where I've had the opportunity to work with a wide range of technologies and frameworks.
+Hello, I'm Karl-Johan Bailey, and I am passionate about creating innovative solutions for both web and mobile applications. I thrive in dynamic environments, where I've had the opportunity to work with a wide range of technologies and frameworks.
 
 ## Professional Experience
 
