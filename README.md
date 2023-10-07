@@ -1,3 +1,44 @@
-# About Me 
+# About Me
 
-I am a software engineer who specializes in the MERN stack. I've been programming since 2010 as a teenager. Since then I have tried many technologies and created many things, including games, websites, mobile apps, etc. Today I have decided to focus my skills on understanding the Node.js runtime.
+## Introduction
+
+Hello, I'm Karl-Johan Bailey, a passionate about creating innovative solutions for both web and mobile applications. I thrive in dynamic environments, where I've had the opportunity to work with a wide range of technologies and frameworks.
+
+## Professional Experience
+
+### Software Development Manager | Cenedex Solutions 
+
+- **Project Estimation**: I excelled at estimating project timelines and resource allocation by meticulously outlining features, components, and services, ensuring that projects were completed on time and within budget.
+
+- **Project Management**: I managed the development process of web applications and mobile apps, overseeing the entire lifecycle from concept to deployment.
+
+- **Strategic Planning**: I played a key role in strategizing to understand the directions and plans of our products, collaborating closely with cross-functional teams to align our efforts with organizational goals.
+
+- **Mentorship and Growth**: I provided mentorship to interns and less experienced developers, fostering their growth in technical expertise, communication skills, and work performance.
+
+- **Continuous Learning**: My commitment to continuous learning enabled me to gain new experiences and stay at the forefront of the ever-evolving field of software development.
+
+### Personal Project: SyncPoly - 3D File Sharing Platform 
+
+- **Objective**: SyncPoly is my personal project, a 3D sharing platform that simplifies the process of sharing and collaborating on 3D models online.
+
+- **Features**: SyncPoly offers a range of features, including:
+  - Messaging: Chatroom within 3D rooms.
+  - 3D Viewing: View and change 3D environment with members on the call.
+  - 3D Tags: Tag 3D models to annotate and provide extra information.
+
+- **Technical Details**: SyncPoly is built using a modern tech stack, with React, Next.js, Node.js, Express.js, SQL, NoSQL, and cutting-edge 3D rendering libraries.
+
+- **Contributions**: The project is open to contributions from the community. Check out our [GitHub repository](link-to-syncpoly-repo) for more details.
+
+## Getting Started
+
+To explore SyncPoly and start sharing 3D models, simply visit [SyncPoly.com](https://syncpoly.com) and sign up for an account.
+
+## Contact Me
+
+If you have any questions, feedback, or collaboration ideas, please don't hesitate to reach out:
+
+- LinkedIn: [Karl-Johan Bailey](https://www.linkedin.com/in/karl-johan-bailey-a96481201/)
+- GitHub: [Karl-maker](https://github.com/Karl-maker/)
+- Email: [karljohanbailey98@gmail.com](mailto:karljohanbailey98@gmail.com)
