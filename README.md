@@ -29,11 +29,9 @@ Hello, I'm Karl-Johan Bailey, a passionate about creating innovative solutions f
 
 - **Technical Details**: SyncPoly is built using a modern tech stack, with React, Next.js, Node.js, Express.js, SQL, NoSQL, and cutting-edge 3D rendering libraries.
 
-- **Contributions**: The project is open to contributions from the community. Check out our [GitHub repository](link-to-syncpoly-repo) for more details.
-
 ## Getting Started
 
-To explore SyncPoly and start sharing 3D models, simply visit [SyncPoly.com](https://syncpoly.com) and sign up for an account.
+To explore SyncPoly and start sharing 3D models, simply visit [SyncPoly.com](https://www.syncpoly.com) and sign up for an account.
 
 ## Contact Me
 
