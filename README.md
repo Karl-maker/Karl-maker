@@ -6,7 +6,7 @@ Hello, I'm Karl-Johan Bailey, and I am passionate about creating innovative solu
 
 ## Professional Experience
 
-### Software Development Manager | Cenedex Solutions 
+### Software Development Manager | 1Dev.ai Solutions 
 
 - **Project Estimation**: I excelled at estimating project timelines and resource allocation by meticulously outlining features, components, and services, ensuring that projects were completed on time and within budget.
 
