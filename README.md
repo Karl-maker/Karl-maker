@@ -64,7 +64,7 @@ I'm less interested in AI as a buzzword and more interested in **what we can act
 
 ---
 
-## ☁️ Where I Started
+## Where I Started
 
 Early in my career, I worked at a startup building **streaming software on AWS for a California-based healthcare company**.
 
@@ -127,7 +127,7 @@ I'm interested in writing about the things I encounter while building—not just
 
 ---
 
-## 🛠️ What I Like Building
+## What I Like Building
 
 My projects tend to fall somewhere around:
 
@@ -188,7 +188,7 @@ I'm building from the Caribbean and thinking globally.
 
 ---
 
-## 🔭 What's Next?
+## What's Next?
 
 I'm interested in building companies and technology around problems that are difficult enough to be interesting and valuable enough to matter.
 
