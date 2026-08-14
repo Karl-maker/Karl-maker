@@ -1,5 +1,3 @@
-I’d position you as a **Swedish-Jamaican builder living in Trinidad**, with a story that moves from cloud/healthcare infrastructure → AI automation → entrepreneurship/Eislett → Is-Ed → game-engine systems. That feels much more distinctive than a generic software-engineering bio.
-
 # Karl-Johan Bailey
 
 **Founder • Software Engineer • AI Builder • Systems Enthusiast**
