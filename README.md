@@ -17,6 +17,7 @@ I wrote about the trade-offs of usage-based pricing and why pricing models that 
 Built in **Unity for fun** — a mobile pirate survival game where I experimented with gameplay systems, game architecture, analytics, monetization, and Google AdMob.
 
 [View Clash of Pirates: War on the App Store](https://apps.apple.com/ee/app/clash-of-pirates-war/id6812491112)
+
 [View Clash of Pirates on the Google Play Store](https://play.google.com/store/apps/details?id=com.syncpoly.clashofpirates)
 
 ### Work Github
